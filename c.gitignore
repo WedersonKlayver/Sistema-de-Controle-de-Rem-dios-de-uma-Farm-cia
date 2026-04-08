@@ -1,0 +1,15 @@
+# Pasta de saída
+output/
+
+# Executáveis
+*.exe
+*.out
+
+# Arquivos compilados
+*.o
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
